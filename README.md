@@ -6,7 +6,7 @@
 - ☁️ I like long walks in the fresh air
 - 📚 I learn new material in detail
 
-### Connect with me:
+**CONNECT WITH ME:**
 
 <div style="display: flex;">
 	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.png" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.png" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.png" style="width: 40px; height: 40px;" /></a>
@@ -14,7 +14,7 @@
 
 <br/>
 
-### Languages and Tools:
+**LANGUAGES AND TOOLS:**
 
 <div style="display: flex;">
 	<img src="img/python-icon.png" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.png" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.png" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.png" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.png" style="width: 48px; height: 48px;" />
