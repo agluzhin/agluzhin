@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi there, my name is Alex👋</h1>
 
-<!--
-**agluzhin/agluzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=30&pause=1000&color=4B8BBE&background=FFFFDD00&width=435&lines=I'm+a+Python+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- 👨‍💻 I like to code
+- ☁️ I like long walks in the fresh air
+- 📚 I learn new material in detail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me:
+
+[<img src="img/telegram-icon.png" style="width: 40px; height: 40px;" />](https://t.me/agluzhin)<br>
+[<img src="img/vk-icon.png" style="width: 40px; height: 40px;" />](https://vk.com/a.luzhin999)<br>
+[<img src="img/instagram-icon.png" style="width: 40px; height: 40px;" />](https://www.instagram.com/agluzhin)
+
+<br/>
+
+# Languages and Tools:
+
+<div style="display: flex;">
+	<img src="img/python-icon.png" style="width: 48px; height: 48px;" /><br>
+	<img src="img/vscode-icon.png" style="width: 48px; height: 48px;" /><br>
+	<img src="img/html-icon.png" style="width: 48px; height: 48px;" /><br>
+	<img src="img/css-icon.png" style="width: 48px; height: 48px;" /><br>
+	<img src="img/sass-icon.png" style="width: 48px; height: 48px;" />
+</div>
