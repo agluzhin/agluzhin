@@ -6,13 +6,15 @@
 - ☁️ I like long walks in the fresh air
 - 📚 I learn new material in detail
 
+<br />
+
 **CONNECT WITH ME:**
 
 <div style="display: flex;">
 	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.png" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.png" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.png" style="width: 40px; height: 40px;" /></a>
 </div>
 
-<br/>
+<br />
 
 **LANGUAGES AND TOOLS:**
 
