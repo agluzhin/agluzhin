@@ -6,20 +6,16 @@
 - ☁️ I like long walks in the fresh air
 - 📚 I learn new material in detail
 
-# Connect with me:
+<h3>Connect with me:</h3>
 
-[<img src="img/telegram-icon.png" style="width: 40px; height: 40px;" />](https://t.me/agluzhin)<br>
-[<img src="img/vk-icon.png" style="width: 40px; height: 40px;" />](https://vk.com/a.luzhin999)<br>
-[<img src="img/instagram-icon.png" style="width: 40px; height: 40px;" />](https://www.instagram.com/agluzhin)
+<div style="display: flex;">
+	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.png" style="width: 40px; height: 40px;" /></a>	<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.png" style="width: 40px; height: 40px;" /></a>	<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.png" style="width: 40px; height: 40px;" /></a>
+</div>
 
 <br/>
 
-# Languages and Tools:
+<h3>Languages and Tools:</h3>
 
 <div style="display: flex;">
-	<img src="img/python-icon.png" style="width: 48px; height: 48px;" /><br>
-	<img src="img/vscode-icon.png" style="width: 48px; height: 48px;" /><br>
-	<img src="img/html-icon.png" style="width: 48px; height: 48px;" /><br>
-	<img src="img/css-icon.png" style="width: 48px; height: 48px;" /><br>
-	<img src="img/sass-icon.png" style="width: 48px; height: 48px;" />
+	<img src="img/python-icon.png" style="width: 48px; height: 48px;" />	<img src="img/vscode-icon.png" style="width: 48px; height: 48px;" />	<img src="img/html-icon.png" style="width: 48px; height: 48px;" />	<img src="img/css-icon.png" style="width: 48px; height: 48px;" />	<img src="img/sass-icon.png" style="width: 48px; height: 48px;" />
 </div>
