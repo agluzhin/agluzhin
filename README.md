@@ -1,4 +1,4 @@
-<h1>Hi there, my name is Alex👋</h1>
+<h1>Hi, my name is Alex👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=30&pause=1000&color=4B8BBE&background=FFFFDD00&width=435&lines=I'm+a+Python+Developer)](https://git.io/typing-svg)
 
