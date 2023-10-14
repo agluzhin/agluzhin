@@ -11,7 +11,7 @@
 **CONNECT WITH ME:**
 
 <div style="display: flex;">
-	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.svg" style="width: 40px; height: 40px;" /></a>
+	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 30px; height: 30px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.svg" style="width: 30px; height: 30px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.svg" style="width: 30px; height: 30px;" /></a>
 </div>
 
 <br />
@@ -19,5 +19,5 @@
 **LANGUAGES AND TOOLS:**
 
 <div style="display: flex;">
-	<img src="img/python-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/git-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.svg" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.svg" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.svg" style="width: 48px; height: 48px;" />
+	<img src="img/python-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/git-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.svg" style="width: 30px; height: 30px;" />
 </div>
