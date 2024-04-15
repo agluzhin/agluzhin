@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+20&size=40&pause=1000&color=A179DC&background=FFFFFF00&random=false&width=435&lines=I'm+a+C%23+Game+Developer)](https://git.io/typing-svg)
 
-- 👨‍💻 I like to code with Lo-Fi music listening
+- 👨‍💻 I like to code with music
 - 📚 I learn new material in details
 - ☁️ Walking is my "insperation"
 
