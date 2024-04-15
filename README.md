@@ -1,10 +1,10 @@
 <h1>Hi, my name is Alex👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=30&pause=1000&color=4B8BBE&background=FFFFDD00&width=435&lines=I'm+a+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+20&size=30&pause=1000&color=A179DC&background=FFFFFF00&random=false&width=435&lines=I'm+a+C%23+Game+Developer)](https://git.io/typing-svg)
 
-- 👨‍💻 I like to code
-- ☁️ I like long walks in the fresh air
-- 📚 I learn new material in detail
+- 👨‍💻 I like to code with Lo-Fi music listening
+- ☁️ Walking in the fresh air is my insperation
+- 📚 I learn new material in details
 
 <br />
 
