@@ -19,5 +19,5 @@
 **LANGUAGES AND TOOLS:**
 
 <div style="display: flex;">
-	<img src="img/python-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/git-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.svg" style="width: 30px; height: 30px;" />
+	<img src="img/c-sharp.png" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/git-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.svg" style="width: 30px; height: 30px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.svg" style="width: 30px; height: 30px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.svg" style="width: 30px; height: 30px;" />
 </div>
