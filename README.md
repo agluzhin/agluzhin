@@ -1,6 +1,6 @@
 <h1>Hi, my name is Alex👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+20&size=30&pause=1000&color=A179DC&background=FFFFFF00&random=false&width=435&lines=I'm+a+C%23+Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+20&size=40&pause=1000&color=A179DC&background=FFFFFF00&random=false&width=435&lines=I'm+a+C%23+Game+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 I like to code with Lo-Fi music listening
 - ☁️ Walking in the fresh air is my insperation
