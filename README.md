@@ -4,7 +4,7 @@
 
 - 👨‍💻 I like to code with Lo-Fi music listening
 - 📚 I learn new material in details
-- ☁️ Walking in the fresh air is my "insperation"
+- ☁️ Walking is my "insperation"
 
 <br />
 
