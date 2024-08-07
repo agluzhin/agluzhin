@@ -8,14 +8,6 @@
 
 <br />
 
-**CONNECT WITH ME:**
-
-<div style="display: flex;">
-	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 30px; height: 30px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.svg" style="width: 30px; height: 30px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.svg" style="width: 30px; height: 30px;" /></a>
-</div>
-
-<br />
-
 **LANGUAGES AND TOOLS:**
 
 <div style="display: flex;">
