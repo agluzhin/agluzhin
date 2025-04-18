@@ -8,10 +8,10 @@
 
 <br />
 
-**CONNECT WITH ME:**
+**CONTACT WITH ME:**
 
 <div style="display: flex;">
-	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin999"><img src="img/vk-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/agluzhin"><img src="img/instagram-icon.svg" style="width: 40px; height: 40px;" /></a>
+	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin74"><img src="img/vk-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
 <br />
