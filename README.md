@@ -8,16 +8,16 @@
 
 <br />
 
-**CONTACT WITH ME:**
-
-<div style="display: flex;">
-	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin74"><img src="img/vk-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-</div>
-
-<br />
-
 **LANGUAGES AND TOOLS:**
 
 <div style="display: flex;">
 	<img src="img/python-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/git-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/vscode-icon.svg" style="width: 48px; height: 48px;" />&nbsp; &nbsp; &nbsp; &nbsp;<img src="img/html-icon.svg" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/css-icon.svg" style="width: 48px; height: 48px;" /> &nbsp; &nbsp; &nbsp; &nbsp;<img src="img/sass-icon.svg" style="width: 48px; height: 48px;" />
+</div>
+
+<br />
+
+**CONTACT WITH ME:**
+
+<div style="display: flex;">
+	<a href="https://t.me/agluzhin"><img src="img/telegram-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://vk.com/a.luzhin74"><img src="img/vk-icon.svg" style="width: 40px; height: 40px;" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
